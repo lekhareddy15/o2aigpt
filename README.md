@@ -4,7 +4,7 @@ This project is aimed at developing an intelligent conversational agent using th
 
 # Tech Stack
 
-- **Frontend**: React.js
+- **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Deployment**: Docker, AWS
